@@ -1,2 +1,0 @@
-# begin-demo
-Begin app
